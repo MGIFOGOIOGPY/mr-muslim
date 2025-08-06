@@ -2,3 +2,5 @@ Flask==2.0.1
 requests==2.26.0
 python-telegram-bot==13.7
 ipinfo==4.4.1
+pyngrok==5.1.0  # إذا كنت بحاجة لنفق Ngrok
+gunicorn==20.1.0  # ضروري للنشرغ
